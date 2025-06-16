@@ -29,15 +29,15 @@ If it's challenging, I’m interested. If it’s impossible, I’m curious. 💡
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navodN&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navodN&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=navodN&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navodN&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=navodN&theme=onedark&margin-w=15&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=navodN&theme=juicyfresh&margin-w=15&row=1" alt="Trophies" />
 </p>
 
 ---
